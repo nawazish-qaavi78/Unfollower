@@ -57,7 +57,7 @@ if(not_followers_names):
 
     for poser in not_followers_names:
         handler.search_user(poser)
-        handler.follow()
+        handler.unfollow()
 
 
 
