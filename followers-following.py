@@ -1,10 +1,6 @@
 '''
-This program returns the usernames of the people who you follow but don't follow you back on IG
-(yeah they are big celebs na)
-note: it will not return the users who are verified
-    to get the followers and following used IGimport chrome extension
+to get the followers and following used IGimport chrome extension
 
-not sure if fool proof
 '''
 
 import pandas as pd
